@@ -1,0 +1,14 @@
+body {
+    background-color: blue
+}
+
+article {
+    background: greenyellow;
+    border: black dotted 2px;
+    padding: 20px;
+    margin: 50px;
+    text-align: right;
+} 
+h1 {
+    
+}
