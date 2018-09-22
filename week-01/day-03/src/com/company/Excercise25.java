@@ -8,7 +8,11 @@ public class Excercise25 {
         System.out.println("Please, type one number" );
         int numb = scenner.nextInt();
         System.out.println(numb);
-        
+        for (int a= 1; a<= 10; a++) {
+            System.out.println(numb + "*" + a + "=" + ( numb*a));
+        }
+
+
 
     }
 }
