@@ -8,6 +8,7 @@ public class Excercise02 {
     }
 
     public static void greet( String greeting) {
+
         System.out.println("Greetings dear, " + greeting );
     }
 
