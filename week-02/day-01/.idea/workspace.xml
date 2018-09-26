@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adcc63c6-1170-4f75-98a0-39e58f773df2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/com/company/Excercise07.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Excercise03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -95,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Excercise02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -228,7 +233,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537890563734" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537975883520" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -335,12 +340,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537772838906</updated>
-      <workItem from="1537772844468" duration="26484000" />
+      <workItem from="1537772844468" duration="27090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26484000" />
+    <option name="totallyTimeSpent" value="27090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="29" width="1446" height="840" extended-state="0" />
@@ -440,20 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Excercise12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -496,6 +487,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Excercise03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -504,13 +516,6 @@
             <element signature="e#213#214#0" expanded="true" />
             <element signature="e#262#263#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>

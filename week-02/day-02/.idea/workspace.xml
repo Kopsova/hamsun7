@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38634df4-5f7b-4134-85db-f68c7b551955" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03/src/com/company/Excercise10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-01/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Excercise07.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Excercise07.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#196#204#0" expanded="true" />
@@ -166,8 +171,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="506" />
     <option name="width" value="901" />
     <option name="height" value="840" />
   </component>
@@ -185,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537890563769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537975883556" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -292,15 +297,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537859991336</updated>
-      <workItem from="1537859995731" duration="15373000" />
+      <workItem from="1537859995731" duration="16391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15373000" />
+    <option name="totallyTimeSpent" value="16391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="0" width="901" height="840" extended-state="0" />
+    <frame x="506" y="0" width="901" height="840" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -396,7 +401,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Excercise07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#196#204#0" expanded="true" />
