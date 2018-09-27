@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c112b76-7935-4695-94d7-f5cabeb96345" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-04/src/com/company/Excercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-04/src/com/company/Excercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-04/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/src/com/company/Excercise02.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -248,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538045588069" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538051959237" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
