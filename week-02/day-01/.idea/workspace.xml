@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adcc63c6-1170-4f75-98a0-39e58f773df2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-04/src/com/company/Excercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/src/com/company/Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/src/com/company/Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/src/com/company/Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/src/com/company/Practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/src/com/company/Practice05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week03/day02/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day-01/com/company/Excercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-01/com/company/Excercise02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Excercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week03/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week03/day02/out/production/day02/com/company/Practice05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day02/out/production/day02/com/company/Practice05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week03/day02/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day02/src/com/company/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week03/day02/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day02/text.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -235,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538492520510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538494598125" />
     <property name="last_opened_file_path" value="$USER_HOME$/exam-trial-basics" />
   </component>
   <component name="RunDashboard">

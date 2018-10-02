@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708e9322-efc1-491a-bf7a-73249563905a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-04/src/com/company/Excercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Practice05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/out/production/day-01/com/company/Excercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/out/production/day-01/com/company/Excercise02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/Excercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-02/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,13 +38,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1510" />
+          <entry key="java" value="1841" />
           <entry key="txt" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1510" />
+          <entry key="JAVA" value="1841" />
           <entry key="PLAIN_TEXT" value="71" />
         </counts>
       </usages-collector>
@@ -107,10 +95,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Excercise01.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Excercise06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Practice05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="324">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -175,6 +166,8 @@
         <option value="$PROJECT_DIR$/src/com/company/Practice03.java" />
         <option value="$PROJECT_DIR$/src/com/company/Practice04.java" />
         <option value="$PROJECT_DIR$/src/com/company/Practice05.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Excercise01.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Excercise06.java" />
       </list>
     </option>
   </component>
@@ -185,9 +178,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="371" />
-    <option name="y" value="6" />
-    <option name="width" value="1140" />
+    <option name="x" value="65" />
+    <option name="y" value="41" />
+    <option name="width" value="1437" />
     <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -225,7 +218,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538492520455" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538494671179" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week-02/day-01" />
   </component>
   <component name="RunDashboard">
@@ -240,9 +233,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice05">
-    <configuration name="Practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Practice01" />
+  <component name="RunManager" selected="Application.Excercise06">
+    <configuration name="Excercise06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Excercise06" />
       <module name="day02" />
       <extension name="coverage">
         <pattern>
@@ -307,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Practice01" />
       <item itemvalue="Application.Practice02" />
       <item itemvalue="Application.Practice03" />
       <item itemvalue="Application.Practice04" />
       <item itemvalue="Application.Practice05" />
+      <item itemvalue="Application.Excercise06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excercise06" />
         <item itemvalue="Application.Practice05" />
         <item itemvalue="Application.Practice04" />
         <item itemvalue="Application.Practice03" />
         <item itemvalue="Application.Practice02" />
-        <item itemvalue="Application.Practice01" />
       </list>
     </recent_temporary>
   </component>
@@ -333,15 +326,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538471018791</updated>
-      <workItem from="1538471022153" duration="17031000" />
+      <workItem from="1538471022153" duration="19218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17031000" />
+    <option name="totallyTimeSpent" value="19218000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="371" y="6" width="1140" height="840" extended-state="0" />
+    <frame x="65" y="41" width="1437" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -349,7 +342,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19907407" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15613653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -358,7 +351,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,26 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new-file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Practice05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Practice03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -455,10 +428,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise01.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Practice05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="324">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new-file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
