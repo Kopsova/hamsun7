@@ -9,6 +9,7 @@ public class Excercise01 {
 
     //
     public static void doubling(int dubledNum) {
+
         System.out.println(dubledNum *2);
     }
 
