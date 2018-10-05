@@ -21,6 +21,7 @@ public class Excercise04 {
 
     }
     public static void toTheCenter (Graphics graphics, int x, int y) {
+
         graphics.drawLine(x,y,WIDTH/2,HEIGHT/2);
     }
 
