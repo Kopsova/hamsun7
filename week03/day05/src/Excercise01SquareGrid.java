@@ -5,27 +5,31 @@ import java.awt.*;
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 
-public class ExcerciseDrawingFractals {
-
+public class Excercise01SquareGrid {
     public static void mainDraw (Graphics graphics) {
-        xoField(graphics,0,0,WIDTH);
+        whiteOnBlack(graphics,0,0,WIDTH);
 
     }
 
+    public static void whiteOnBlack(Graphics graphics,int x,int y, int size ){
 
-    public static void xoField (Graphics graphics, int x, int y, int size) {
-        graphics.drawLine(x+size/3,y, x+size/3, size+y );
-        graphics.drawLine(2*size/3+x, y, 2*size/3+x, size+y);
-        graphics.drawLine(x,size/3 +y, size+x, size/3+y);
-        graphics.drawLine(x,2*size/3+y,size+x,2*size/3+y);
-        if(size > 0) {
-            xoField(graphics,x+size/3,y, size/3);
-            xoField(graphics,x+size/3,2*size/3+y,size/3);
-            xoField(graphics, x,size/3+y,size/3);
-            xoField(graphics,2*size/3+x,size/3+y, size/3);
+        graphics.fillRect(x+size/4, y+size/4, size/2,size/2);
+        graphics.setColor(Color.WHITE);
+        graphics.fillRect(x+size/4 + size/50, y+size/4+ size/50, size/2 -size/25, size/2-size/2 );
+        if (size> 0) {
+            whiteOnBlack(graphics,x+size/8, y+size/8,size/4);
+
         }
 
+
+
+
+
     }
+
+
+
+
 
 
 

@@ -1,0 +1,27 @@
+public class Person {
+
+    String name;
+    int age;
+    String gender;
+
+    public Person(String name, int age, String gender) {
+
+    }
+    public Person(){
+        this.name = "Jane Doe";
+        this.age = 30;
+        this.gender = "female";
+
+    }
+
+
+    public void introduce() {
+        System.out.println("Hi,Im" +" "+ name +" "+ "a" +" "+ age +" "+ "old" + " "+gender);
+
+    }
+
+    public void getGoal() {
+        System.out.println("My goal is: Live for the moment");
+    }
+
+}
