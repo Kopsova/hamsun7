@@ -4,16 +4,16 @@ public class Sponsor extends Person {
     int hiredStudents = 0;
 
     public Sponsor(String name, int age, String gender, String company){
-
-    }
-    public Sponsor(String name, int age, String gender){
         super(name,age,gender);
-        this.company = "Google";
-        this.hiredStudents = 0;
+        this.company = company;
+
     }
     public Sponsor(){
 
+        this.company = "Google";
+        this.hiredStudents = 0;
     }
+
 
 
     @Override

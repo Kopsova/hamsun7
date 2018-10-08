@@ -3,15 +3,15 @@ public class Mentor extends Person {
     String level;
 
     public Mentor(String name,int age, String gender, String level){
-
-    }
-    public Mentor(String name,int age,String gender){
         super(name,age,gender);
-        this.level = "intermediate";
+        this.level= level;
+
     }
     public Mentor(){
 
+        this.level = "intermediate";
     }
+
 
 
 
