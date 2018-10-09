@@ -16,16 +16,14 @@ public class Student extends Person implements Cloneable {
         this.skippedDays = 0;
     }
 
+    @Override
+    protected Object clone() {
+        return new Student(this.name, this.age, this.gender,this.previousOrganization);
 
 
+    }
 
-
-
-
-
-
-
-  public void getGoal() {
+    public void getGoal() {
       System.out.println("Be a junior software developer");
   }
 
