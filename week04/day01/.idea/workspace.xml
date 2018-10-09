@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe7085a-c829-4daf-bb3b-976500e2aad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TheGardenApplication/src/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheGardenApplication/src/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02week04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02week04/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/StringedInstrument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week03/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheGardenApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheGardenApplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/out/production/day02week04/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/out/production/day02week04/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/src/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/src/Domino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/src/DominoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/src/DominoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/src/Example.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -86,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
+            <state relative-caret-position="392">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
@@ -125,9 +129,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="455" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-107" />
+    <option name="y" value="33" />
     <option name="width" value="1053" />
     <option name="height" value="840" />
   </component>
@@ -160,7 +164,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539086681601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539101166997" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,15 +205,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538997734117</updated>
-      <workItem from="1538997739536" duration="15483000" />
+      <workItem from="1538997739536" duration="17809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15483000" />
+    <option name="totallyTimeSpent" value="17809000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="4" width="1053" height="840" extended-state="0" />
+    <frame x="-107" y="33" width="1053" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -279,10 +283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="392">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
@@ -293,10 +297,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
