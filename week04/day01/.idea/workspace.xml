@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe7085a-c829-4daf-bb3b-976500e2aad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/StringedInstrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/Tests/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/Tests/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/day03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week03/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day02week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02week04/out/production/day02week04/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/out/production/day02week04/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02week04/src/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/src/Domino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02week04/src/DominoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/src/DominoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02week04/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/src/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -93,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
+            <state relative-caret-position="646">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
@@ -129,9 +131,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-107" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="225" />
+    <option name="y" value="10" />
     <option name="width" value="1053" />
     <option name="height" value="840" />
   </component>
@@ -164,7 +166,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539101166997" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539183265731" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,15 +207,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538997734117</updated>
-      <workItem from="1538997739536" duration="17809000" />
+      <workItem from="1538997739536" duration="18840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17809000" />
+    <option name="totallyTimeSpent" value="18840000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-107" y="33" width="1053" height="840" extended-state="0" />
+    <frame x="225" y="10" width="1053" height="840" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -269,6 +271,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sponsor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -280,20 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sponsor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

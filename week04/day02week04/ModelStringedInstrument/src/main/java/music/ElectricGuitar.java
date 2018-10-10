@@ -7,7 +7,9 @@ public class ElectricGuitar extends StringedInstrument {
         this.sound= "Twang";
     }
 
-    public ElectricGuitar()
+    public ElectricGuitar() {
+
+    }
 
 
 
