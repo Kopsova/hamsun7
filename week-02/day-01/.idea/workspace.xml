@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adcc63c6-1170-4f75-98a0-39e58f773df2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/Tests/AppleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/Tests/SumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/day03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/src/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week04/day03/Tests/ExtensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week04/day03/src/Extension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week03/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02week04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02week04/ModelStringedInstrument/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02week04/ModelStringedInstrument/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/day03/day03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/day03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/day03/out/production/day03/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/out/production/day03/Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/day03/out/test/day03/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/day03/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/src/Anagram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -190,7 +186,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="114" />
     <option name="y" value="29" />
     <option name="width" value="1446" />
@@ -350,7 +346,7 @@
     <option name="totallyTimeSpent" value="33396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="29" width="1446" height="840" extended-state="0" />
+    <frame x="114" y="29" width="1446" height="840" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />

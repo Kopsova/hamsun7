@@ -24,7 +24,7 @@ public class Anagram {
         }
         return countL;
     }
-    
+
 
 
   public boolean areAnagram(String string1, String string2) {
