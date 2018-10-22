@@ -8,6 +8,7 @@ public class Cohort {
     List<Mentor> mentors = new ArrayList<>();
 
     public Cohort(String name){
+
         this.name = name;
     }
     public Cohort(){
