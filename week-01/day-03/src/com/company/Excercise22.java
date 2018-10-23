@@ -50,7 +50,7 @@ public class Excercise22 {
 
         System.out.println(c);
 
-        
+
 
 
 
