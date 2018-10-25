@@ -24,7 +24,7 @@ public class Practice03 {
             }
 
         } catch (Exception e) {
-            System.out.println("Unable to read file: my-file.txt");
+            System.out.println("Unable to read file");
         }
         return count;
     }

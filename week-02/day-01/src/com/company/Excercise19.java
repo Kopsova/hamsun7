@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Arrays;
+
 public class Excercise19 {
     // - Create an array variable named `aj`
 //   with the following content: `[3, 4, 5, 6, 7]`
@@ -15,7 +17,7 @@ public class Excercise19 {
             aj[aj.length-i-1]= temp;
 
         }
-        System.out.println(aj[0]);
+        System.out.println(Arrays.toString(aj));
 
 
 

@@ -8,6 +8,7 @@ import java.util.List;
 
 public class Excercise07 {
     public static void main(String [] args) {
+        getUniqueIps("log.txt");
 
     }
 

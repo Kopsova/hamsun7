@@ -10,8 +10,8 @@ public class Practice01 {
 
 
         try {
-            int result = 10/ userInput;
-            System.out.println(result);
+
+            divideTen(userInput);
         } catch (ArithmeticException e) {
             System.out.println("Fail");
         }
