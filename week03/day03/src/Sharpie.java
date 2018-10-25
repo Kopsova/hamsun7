@@ -1,9 +1,12 @@
 public class Sharpie {
     String colour;
     float width;
-    float inkAmount = 100;
+    float inkAmount;
 
     public Sharpie(String colour,float width){
+        this.colour= colour;
+        this.width = width;
+        this.inkAmount = 100;
 
     }
     public void use (){

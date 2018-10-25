@@ -2,37 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708e9322-efc1-491a-bf7a-73249563905a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/SortThatList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Excercise08TicTackToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03/src/Fleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03/src/FleetOfThings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03/src/Sharpie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03/src/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/SharpieSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../todo-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/out/production/day-01/com/company/Excercise19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/out/production/day-01/com/company/Excercise19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/Excercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/Excercise19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/src/com/company/Unique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/out/production/day-02/com/company/Excercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/out/production/day-02/com/company/Excercise03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/src/com/company/Excercise07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day02/com/company/Excercise07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02/com/company/Excercise07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day02/com/company/Practice01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02/com/company/Practice01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day02/com/company/Practice03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02/com/company/Practice03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Excercise07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Practice01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Practice03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/day03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/day03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/src/Sharpie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/src/Sharpie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -295,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540493515605" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540507283533" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day03" />
   </component>
   <component name="RunDashboard">

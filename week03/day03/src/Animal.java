@@ -6,10 +6,12 @@ public class Animal {
    // Every animal can eat() which decreases their hunger by one
    // Every animal can drink() which decreases their thirst by one
    // Every animal can play() which increases both by one
-    int hunger = 50;
-    int thirst = 50;
+    int hunger;
+    int thirst;
 
     public Animal(){
+        this.hunger = 50;
+        this.thirst = 50;
 
     }
     public void eat(){
