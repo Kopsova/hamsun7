@@ -24,7 +24,7 @@ public class Farm {
 
     public void slaughter(){
         for (int i = 0; i <animals.size(); i++) {
-            if (animals.get(i).hunger < 0){
+            if (animals.get(i).hunger < 50){
                 animals.remove(i);
             }
 
