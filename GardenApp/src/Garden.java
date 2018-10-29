@@ -5,6 +5,7 @@ public class Garden {
     List<Plant> plants;
 
     public Garden(){
+
         plants = new ArrayList<>();
     }
     public void plant (Plant plants){
@@ -32,15 +33,16 @@ public class Garden {
 
 
         }
+        /*
         double amountPerThirsty = waterAmount / count;
-
         for (Plant onePlantofTheList:plants) {
-            if(onePlantofTheList.needsWater()){
-                onePlantofTheList.water();
-                count ++;
-            }
-
+        if(onePlantofTheList.needsWater()){
+        onePlantofTheList.water();
+        count ++;
         }
+        */
+
+    }
 
 
 
@@ -54,4 +56,4 @@ public class Garden {
 
 
 
-}
+

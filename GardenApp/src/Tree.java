@@ -12,4 +12,9 @@ public class Tree extends Plant {
     public double absorbationlevel() {
         return 0.4;
     }
+
+    @Override
+    public void add() {
+
+    }
 }

@@ -12,4 +12,9 @@ public class Flower extends Plant{
     public double absorbationlevel() {
         return 0.75;
     }
+
+    @Override
+    public void add() {
+
+    }
 }

@@ -27,5 +27,12 @@ public class BlogPostMain {
         oneEngineer.publicationDate = "2017.03.28";
         oneEngineer.putTitle();
         oneEngineer.putText();
+
+        Blog myBlog = new Blog();
+        myBlog.add(loremIpsum);
+        myBlog.add(waitButWhy);
+        myBlog.add(oneEngineer);
+        myBlog.delete(2);
+        myBlog.update(1, oneEngineer);
     }
 }

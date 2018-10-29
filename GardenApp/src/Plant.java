@@ -17,6 +17,7 @@ public abstract class Plant {
 
 
     public boolean needsWater(){
+
         return (waterAmount < tolerance);
     }
 

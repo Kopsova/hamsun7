@@ -13,12 +13,13 @@ public class Farm {
 
 
     public void breed(){
-        for (int i = 0; i < animals.size() ; i++) {
+
             if(freeSlots > 0){
-                i ++;
+                animals.add(new Animal());
+
             }
 
-        }
+
     }
 
 
