@@ -1,48 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc2790b1-81b2-4fca-9e4b-52969fc564f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamsun7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OddAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/day03/src/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/day03/Tests/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/src/Aircrafts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/src/Carrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/src/CarrierException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/src/F16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/src/F35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week04/week04.iml" afterDir="false" />
+    <list default="true" id="f6915664-73d0-4fee-bf5c-a5ff1fa8233f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo-app/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo-app/src/ToDoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_test_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_web_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/java/com/greenfoxacademy/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/java/com/greenfoxacademy/MyFirstApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/java/com/greenfoxacademy/controllers/HelloRESTController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/java/com/greenfoxacademy/controllers/HelloToAllWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/java/com/greenfoxacademy/controllers/HelloWebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/resources/templates/greetingWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/src/main/resources/templates/greetingWorldStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GardenApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GardenApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GardenApp/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/GardenApp/src/Flower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GardenApp/src/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/GardenApp/src/Garden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GardenApp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GardenApp/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GardenApp/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/GardenApp/src/Plant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GardenApp/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/GardenApp/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamsun7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hamsun7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddAvg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-app/ToDo" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/ToDo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-app/out/production/todo-app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/out/production/todo-app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-app/specification.md" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/specification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-app/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo-app/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/Exercise 01/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/Exercise 01/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-01/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-01/first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-01/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-01/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-01/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-01/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise08.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise14.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise15.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise16.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise17.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise18.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise20.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise21.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise22.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise23.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise24.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise25.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise26.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise27.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise28.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise33.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise34.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Excercise34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Exercises01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Exercises01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-01/day-03/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-01/day-03/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise08.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise09.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise14.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise15.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise16.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise17.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise18.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Excercise19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/ExcerciseLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/ExcerciseLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-01/src/com/company/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-01/src/com/company/Unique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise08.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise09.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Excercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-02/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-02/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise08.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise09.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise14.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Excercise14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-03/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-03/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-04/src/com/company/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-04/src/com/company/Excercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-04/src/com/company/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-04/src/com/company/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-02/day-04/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-02/day-04/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/day02/out/production/day02/com/company/Excercise07.class" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/out/production/day02/com/company/Excercise07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Excercise06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Excercise08TicTackToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Excercise08TicTackToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Practice02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Practice03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Practice04.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Practice04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day02/src/com/company/Practice05.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day02/src/com/company/Practice05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/day03/out/production/day03/BlogPostMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/out/production/day03/BlogPostMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/day03/out/production/day03/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/out/production/day03/Fleet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/day03/out/production/day03/Sharpie.class" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/out/production/day03/Sharpie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week03/day03/out/production/day03/StudentsAndTeachers.class" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/out/production/day03/StudentsAndTeachers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/BlogPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/BlogPost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/day03/src/BlogPostMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/BlogPostMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/DominoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/DominoMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/day03/src/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Farm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week03/day03/src/Fleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Fleet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week04/TheGardenApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week04/TheGardenApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/PokemonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/PokemonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/PostIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/PostIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/Sharpie.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Sharpie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day03/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day03/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/ExcerciseDrawingFractals.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/ExcerciseDrawingFractals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day05/src/Excercise01SquareGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day05/src/Excercise01SquareGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week03/day05/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week03/day05/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/TheGardenApplication/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/TheGardenApplication/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/TheGardenApplication/src/Plants.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/TheGardenApplication/src/Plants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week04/day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week04/day01/out/production/day01/Cohort.class" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/out/production/day01/Cohort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week04/day01/out/production/day01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/out/production/day01/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week04/day01/src/Cohort.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/src/Cohort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day01/src/Mentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/src/Mentor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day01/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day01/src/Sponsor.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/src/Sponsor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day01/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day01/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/main/java/music/ElectricGuitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/main/java/music/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/main/java/music/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/main/java/music/StringedInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/ModelStringedInstrument/src/main/java/music/StringedInstrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Cohort.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Cohort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Domino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Mentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Mentor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Sponsor.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Sponsor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day02week04/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day02week04/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week04/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day03/Tests/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/Tests/AppleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week04/day03/Tests/ExtensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/Tests/ExtensionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day03/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/src/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day03/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/src/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day03/src/Extension.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/src/Extension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/day03/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/day03/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/src/Aircrafts.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/src/Aircrafts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/src/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/src/Carrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week05/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week05/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,72 +265,15 @@
     <session id="1467456017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="363" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="363" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OddAvg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/OddAvg.java" />
-        <option value="$PROJECT_DIR$/src/OddAvgTest.java" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -126,11 +281,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="216" />
-    <option name="y" value="31" />
-    <option name="width" value="1318" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="593" />
+    <option name="width" value="771" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,44 +292,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hamsun7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankofsimba" type="b2602c69:ProjectViewProjectNode" />
               <item name="hamsun7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hamsun7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hamsun7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540793041093" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,70 +325,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddAvg">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="hamsun7" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OddAvg" />
-      <module name="hamsun7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.OddAvg" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.OddAvg" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc2790b1-81b2-4fca-9e4b-52969fc564f4" name="Default Changelist" comment="" />
-      <created>1540742998443</created>
+      <changelist id="f6915664-73d0-4fee-bf5c-a5ff1fa8233f" name="Default Changelist" comment="" />
+      <created>1541507750026</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540742998443</updated>
-      <workItem from="1540743002445" duration="4783000" />
+      <updated>1541507750026</updated>
+      <workItem from="1541507756004" duration="211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4783000" />
+    <option name="totallyTimeSpent" value="211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="216" y="31" width="1318" height="820" extended-state="1" />
-    <editor active="true" />
+    <frame x="593" y="0" width="771" height="860" extended-state="0" />
     <layout>
+      <window_info id="Web" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18521462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24894515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32896653" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -273,28 +380,5 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddAvgTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

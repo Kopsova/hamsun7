@@ -2,44 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd5943b6-5b37-4a13-9d6e-90113b811c84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hamsun7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/OddAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week03/day03/src/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/day03/Tests/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/src/Aircrafts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/src/Carrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/src/CarrierException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/src/F16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/src/F35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week04/week04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/cp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Garden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-01/day-03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-02/day-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-02/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-02/day-02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week03/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day02/out/production/day02/com/company/Excercise07.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day02/out/production/day02/com/company/Excercise07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day02/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day02/src/com/company/Excercise07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week03/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/out/production/day03/BlogPostMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/out/production/day03/BlogPostMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/out/production/day03/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/out/production/day03/Fleet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/out/production/day03/Sharpie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/out/production/day03/Sharpie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/out/production/day03/StudentsAndTeachers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/out/production/day03/StudentsAndTeachers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/src/BlogPostMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/src/BlogPostMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/src/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/src/Farm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week03/day03/src/Fleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week03/day03/src/Fleet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week04/TheGardenApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/TheGardenApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week04/day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/day01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week04/day01/out/production/day01/Cohort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/day01/out/production/day01/Cohort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week04/day01/out/production/day01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/day01/out/production/day01/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week04/day01/src/Cohort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/day01/src/Cohort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week04/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week04/day03/Tests/ExtensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week04/day03/Tests/ExtensionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +26,7 @@
     <session id="87642503">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="3" />
@@ -93,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Plant.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -128,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Garden.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -172,7 +146,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="157" />
+    <option name="x" value="293" />
+    <option name="y" value="30" />
     <option name="width" value="1215" />
     <option name="height" value="840" />
   </component>
@@ -190,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540793041017" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540844090963" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -234,15 +209,15 @@
       <updated>1539520527630</updated>
       <workItem from="1539520532472" duration="10503000" />
       <workItem from="1540205796200" duration="110000" />
-      <workItem from="1540543704905" duration="8794000" />
+      <workItem from="1540543704905" duration="9393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19407000" />
+    <option name="totallyTimeSpent" value="20006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="157" y="0" width="1215" height="840" extended-state="1" />
+    <frame x="293" y="30" width="1215" height="840" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25367966" />
@@ -255,7 +230,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32956153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,18 +296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Garden.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -359,6 +322,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Garden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -7,13 +7,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Practice05 {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
         writeFile("text.txt", "apple", 5);
 
     }
 
 
-    public static void writeFile (String path, String word, int numbLines) {
+    public static void writeFile(String path, String word, int numbLines) {
         List<String> content = new ArrayList();
 
 
@@ -23,11 +23,10 @@ public class Practice05 {
                 content.add(word);
 
             }
-            Files.write(filePath,content);
+            Files.write(filePath, content);
 
 
-
-        }catch (Exception e) {
+        } catch (Exception e) {
             System.out.println("Unable to write file");
         }
     }

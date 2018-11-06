@@ -6,52 +6,25 @@ public class Farm {
     int freeSlots;
 
 
+    public void breed() {
 
+        if (freeSlots > 0) {
+            animals.add(new Animal());
 
-
-
-
-
-    public void breed(){
-
-            if(freeSlots > 0){
-                animals.add(new Animal());
-
-            }
+        }
 
 
     }
 
 
-    public void slaughter(){
-        for (int i = 0; i <animals.size(); i++) {
-            if (animals.get(i).hunger < 50){
+    public void slaughter() {
+        for (int i = 0; i < animals.size(); i++) {
+            if (animals.get(i).hunger < 50) {
                 animals.remove(i);
             }
 
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

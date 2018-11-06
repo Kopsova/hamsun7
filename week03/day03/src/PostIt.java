@@ -4,13 +4,12 @@ public class PostIt {
     String text;
     String textColor;
 
-    public PostIt(){
+    public PostIt() {
 
     }
 
 
-
     public void post() {
-        System.out.println(backgroundColor +" " + text +" "+ textColor);
+        System.out.println(backgroundColor + " " + text + " " + textColor);
     }
 }

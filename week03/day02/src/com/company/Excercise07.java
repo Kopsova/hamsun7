@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Excercise07 {
-    public static void main(String [] args) {
+    public static void main(String[] args) {
         System.out.println(getUniqueIps("log.txt").size());
 
     }
@@ -16,7 +16,7 @@ public class Excercise07 {
         List<String> uniqueIps = new ArrayList<>();
         try {
             List<String> lines = Files.readAllLines(Paths.get(filename));
-            for(String line : lines) {
+            for (String line : lines) {
                 if (!uniqueIps.contains(line.split("   ")[1])) {
                     uniqueIps.add(line.split("   ")[1]);
 

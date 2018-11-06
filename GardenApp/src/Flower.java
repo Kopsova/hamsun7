@@ -1,4 +1,4 @@
-public class Flower extends Plant{
+public class Flower extends Plant {
 
 
     public Flower(String color) {

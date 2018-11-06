@@ -12,7 +12,7 @@ The stored number is higher
 The stried number is lower
 You found the number: 8
 */
-    public static void main (String[]args){
+    public static void main(String[] args) {
 
         int number = 8;
 
@@ -20,24 +20,13 @@ You found the number: 8
         System.out.println("Please, guess the number");
         int inputNumb = scenner.nextInt();
 
-        if (inputNumb < number){
+        if (inputNumb < number) {
             System.out.println("The stored number is higher");
-        }
-        else if ( inputNumb > number){
+        } else if (inputNumb > number) {
             System.out.println("The stried number is lower");
-        }
-        else {
+        } else {
             System.out.println("You found the number: " + number);
         }
-
-
-
-
-
-
-
-
-
 
 
     }

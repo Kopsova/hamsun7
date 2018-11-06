@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(55, 136, 173);
+}
+
+th {
+    background-color: black;
+}
+
+body tr:nth-child(odd) {
+    background-color: rgb(179, 175, 175);
+}
+
+body tr:nth-child(even) {
+    background-color: beige;
+}
+
+table {
+    width: 800px;
+    height: 300px;
+    border-collapse: collapse;
+    border-style: hidden;
+    margin: 50px;
+
+}
+
+td {
+    width: 300px;
+}
+
+th {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+    color: aliceblue;
+    padding-left: 20px;
+    text-align: left;
+
+}
+
+td {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: rgb(59, 53, 53);
+    padding-left: 20px;
+    text-align: left;
+}
+
+.leftupcorner {
+    border-top-left-radius: 10px;
+}
+
+.rightupcorner {
+    border-top-right-radius: 10px;
+}
+
+.downleftcorner {
+    border-bottom-left-radius: 10px;
+}
+
+.downrightcorner {
+    border-bottom-right-radius: 10px;
+}
+
+td, th {
+    border: 2px solid rgb(211, 224, 226);
+}
+
+th {
+    border-bottom: 5px solid rgb(191, 204, 207);
+}
+
+
+

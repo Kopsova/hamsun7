@@ -15,10 +15,10 @@ public class PokemonMain {
         Pokemon goodPokemon = null;
 
 
-        for (int i = 0; i < pokemonOfAsh.size() ; i++) {
+        for (int i = 0; i < pokemonOfAsh.size(); i++) {
 
-            if (pokemonOfAsh.get(i).isEffectiveAgainst(wildPokemon)){
-                goodPokemon = pokemonOfAsh.get(i) ;
+            if (pokemonOfAsh.get(i).isEffectiveAgainst(wildPokemon)) {
+                goodPokemon = pokemonOfAsh.get(i);
             }
 
         }

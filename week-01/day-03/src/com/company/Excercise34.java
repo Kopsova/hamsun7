@@ -26,14 +26,14 @@ Sum: 22, Average: 4.4
             int number = scenner.nextInt();
             sum += number;
 
-             }
-
-            System.out.println("Sum of all entered numbers is: " + sum);
-
-
-            System.out.println("Average of all entered numbers is: " + (sum / numbEntry));
-
-
         }
+
+        System.out.println("Sum of all entered numbers is: " + sum);
+
+
+        System.out.println("Average of all entered numbers is: " + (sum / numbEntry));
+
+
     }
+}
 

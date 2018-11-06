@@ -10,8 +10,8 @@ public class Excercise04 {
     public static void mainDraw(Graphics graphics) {
 
         graphics.setColor(Color.BLUE);
-        for (int i = 0; i < 30 ; i+=10) {
-            toTheCenter(graphics, i,10);
+        for (int i = 0; i < 30; i += 10) {
+            toTheCenter(graphics, i, 10);
 
         }
         // Create a line drawing function that takes 2 parameters:
@@ -20,9 +20,10 @@ public class Excercise04 {
         // Draw 3 lines with that function. Use loop for that.
 
     }
-    public static void toTheCenter (Graphics graphics, int x, int y) {
 
-        graphics.drawLine(x,y,WIDTH/2,HEIGHT/2);
+    public static void toTheCenter(Graphics graphics, int x, int y) {
+
+        graphics.drawLine(x, y, WIDTH / 2, HEIGHT / 2);
     }
 
 

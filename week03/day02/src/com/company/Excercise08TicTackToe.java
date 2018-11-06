@@ -16,7 +16,8 @@ public class Excercise08TicTackToe {
         System.out.println(ticTacResult("draw.txt"));
         // Should print "Draw"
     }
-    public static String ticTacResult(String fileName){
+
+    public static String ticTacResult(String fileName) {
         return fileName;
     }
 }

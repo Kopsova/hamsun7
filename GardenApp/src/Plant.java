@@ -4,29 +4,26 @@ public abstract class Plant {
     double waterAmount;
     double tolerance;
 
-    public Plant(String color,double tolerance) {
+    public Plant(String color, double tolerance) {
         this.color = color;
         this.tolerance = tolerance;
         this.waterAmount = 0;
     }
 
 
-
-
-
-
-
-    public boolean needsWater(){
+    public boolean needsWater() {
 
         return (waterAmount < tolerance);
     }
 
-    public void water(double amount){
-        waterAmount+= amount * absorbationlevel();
+    public void water(double amount) {
+        waterAmount += amount * absorbationlevel();
 
     }
 
-    public abstract double absorbationlevel();{
+    public abstract double absorbationlevel();
+
+    {
 
 
     }

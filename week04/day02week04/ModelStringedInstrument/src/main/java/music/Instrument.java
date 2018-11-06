@@ -5,33 +5,14 @@ public abstract class Instrument {
     protected String name;
 
 
-    public Instrument(){
+    public Instrument() {
 
     }
-
-
-
 
 
     public void play() {
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

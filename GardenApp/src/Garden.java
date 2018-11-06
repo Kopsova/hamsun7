@@ -4,31 +4,30 @@ import java.util.List;
 public class Garden {
     List<Plant> plants;
 
-    public Garden(){
+    public Garden() {
 
         plants = new ArrayList<>();
     }
-    public void plant (Plant plants){
+
+    public void plant(Plant plants) {
         plants.add();
     }
 
 
-    public void waterThirsty(int waterAmount){
+    public void waterThirsty(int waterAmount) {
         int count = 0;
-        for (Plant onePlantofTheList:plants) {
-            if(onePlantofTheList.needsWater()){
-                count ++;
+        for (Plant onePlantofTheList : plants) {
+            if (onePlantofTheList.needsWater()) {
+                count++;
             }
 
         }
 
 
-
-
-        for (int i = 0; i < plants.size() ; i++) {
+        for (int i = 0; i < plants.size(); i++) {
             Plant onePlantofTheList = plants.get(i);
-            if (onePlantofTheList.needsWater()){
-                count ++;
+            if (onePlantofTheList.needsWater()) {
+                count++;
             }
 
 
@@ -45,8 +44,7 @@ public class Garden {
     }
 
 
-
-    }
+}
 
 
 

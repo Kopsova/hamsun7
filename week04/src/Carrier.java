@@ -13,7 +13,7 @@ public class Carrier {
         this.healthPoint = healthPoint;
     }
 
-    public void add(Aircrafts aircraft){
+    public void add(Aircrafts aircraft) {
         aircrafts.add(aircraft);
         this.requiredAmmo += aircraft.maxAmmo;
     }
@@ -52,31 +52,15 @@ public class Carrier {
         }
     }
 
-    public void fight (Carrier rival) {
+    public void fight(Carrier rival) {
         int rivalDamage = 0;
-        for (Aircrafts aircraft : this.aircrafts){
+        for (Aircrafts aircraft : this.aircrafts) {
             rivalDamage += aircraft.fight();
         }
         rival.healthPoint -= rivalDamage;
     }
 
-    public String getStatus ()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    public String getStatus()
 
 
 }

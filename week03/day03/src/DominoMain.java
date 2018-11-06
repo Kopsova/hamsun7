@@ -12,9 +12,9 @@ public class DominoMain {
         // eg: [2, 4], [4, 3], [3, 5] ...
 
 
-        for (int i = 0; i < dominoes.size() ; i++) {
-            for (int j = 1; j < dominoes.size() ; j++) {
-                if(newDominoes.get(i).getValues()[1] == dominoes.get(j).getValues()[0] ) {
+        for (int i = 0; i < dominoes.size(); i++) {
+            for (int j = 1; j < dominoes.size(); j++) {
+                if (newDominoes.get(i).getValues()[1] == dominoes.get(j).getValues()[0]) {
                     newDominoes.add(dominoes.get(j));
 
 

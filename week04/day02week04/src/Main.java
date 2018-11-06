@@ -11,7 +11,7 @@ public class Main {
         people.add(jane);
         Student john = new Student("John Doe", 20, "male", "BME");
         System.out.println(john.name);
-        Student john2 = new Student(john.name, john.age,john.gender,john.previousOrganization);
+        Student john2 = new Student(john.name, john.age, john.gender, john.previousOrganization);
         john.introduce();
         people.add(john);
         Student student = new Student();
@@ -35,7 +35,7 @@ public class Main {
             sponsor.hire();
         }
 
-        for(Person person : people) {
+        for (Person person : people) {
             person.introduce();
             person.getGoal();
         }
@@ -46,6 +46,6 @@ public class Main {
         awesome.addMentor(mentor);
         awesome.addMentor(gandhi);
         awesome.info();
-	// write your code here
+        // write your code here
     }
 }

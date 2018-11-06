@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Excercise26 {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
         Scanner scenner = new Scanner(System.in);
         System.out.println("Please, enter two numbers");
         int n1 = scenner.nextInt();

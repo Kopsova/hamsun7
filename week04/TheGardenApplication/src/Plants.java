@@ -3,23 +3,7 @@ public class Plants {
     int waterLevel;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     public void watering()
-
-
-
-
 
 
 }

@@ -8,10 +8,10 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Excercise05 {
     public static void mainDraw(Graphics graphics) {
-        for (int i = 0; i < 30 ; i+=10) {
+        for (int i = 0; i < 30; i += 10) {
 
 
-            horizont(graphics,i,i);
+            horizont(graphics, i, i);
 
 
         }
@@ -21,9 +21,10 @@ public class Excercise05 {
         // Draw 3 lines with that function. Use loop for that.
 
     }
+
     public static void horizont(Graphics graphics, int x, int y) {
         graphics.setColor(Color.BLUE);
-        graphics.drawLine(x,y,x+50,y);
+        graphics.drawLine(x, y, x + 50, y);
     }
 
     // Don't touch the code below

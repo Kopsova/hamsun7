@@ -8,7 +8,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Excercise09 {
 
-    public static void mainDraw(Graphics graphics){
+    public static void mainDraw(Graphics graphics) {
 
         squarre(graphics, 10);
         // create a square drawing function that takes 1 parameter:
@@ -19,15 +19,12 @@ public class Excercise09 {
 
     }
 
-    public static void squarre (Graphics graphics, int size) {
-        for (int i = 0; i < 30 ; i+=10) {
-            graphics.drawRect(WIDTH/2-size/2 -i/2, HEIGHT/2- size/2- i/2, size+i, size+i);
+    public static void squarre(Graphics graphics, int size) {
+        for (int i = 0; i < 30; i += 10) {
+            graphics.drawRect(WIDTH / 2 - size / 2 - i / 2, HEIGHT / 2 - size / 2 - i / 2, size + i, size + i);
 
         }
     }
-
-
-
 
 
     static int WIDTH = 320;

@@ -7,6 +7,6 @@ public class Excercise23 {
             System.out.println(truth);
         }
 
-        }
     }
+}
 

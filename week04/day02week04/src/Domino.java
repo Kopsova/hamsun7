@@ -8,7 +8,6 @@ public class Domino implements Comparable<Domino> {
     }
 
 
-
     public int[] getValues() {
         return values;
     }
@@ -20,6 +19,6 @@ public class Domino implements Comparable<Domino> {
 
     @Override
     public int compareTo(Domino o) {
-        return Integer.compare (this.values[0], o.values[0]);
+        return Integer.compare(this.values[0], o.values[0]);
     }
 }

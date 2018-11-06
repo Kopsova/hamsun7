@@ -10,18 +10,17 @@ public class Excercise02 {
     public static void mainDraw(Graphics graphics) {
 
         graphics.setColor(Color.GREEN);
-        graphics.drawLine(25,25,150,25);
+        graphics.drawLine(25, 25, 150, 25);
 
         graphics.setColor(Color.RED);
-        graphics.drawLine(25,25,25,150);
+        graphics.drawLine(25, 25, 25, 150);
 
         graphics.setColor(Color.BLUE);
-        graphics.drawLine(150,25,150,150);
+        graphics.drawLine(150, 25, 150, 150);
 
         graphics.setColor(Color.YELLOW);
-        graphics.drawLine(25,150,150,150);
+        graphics.drawLine(25, 150, 150, 150);
         // Draw a box that has different colored lines on each edge.
-
 
 
     }

@@ -3,7 +3,7 @@ package com.company;
 import java.util.ArrayList;
 
 public class Excercise09 {
-    public static void main(String... args){
+    public static void main(String... args) {
         ArrayList<Object> arrayList = new ArrayList<Object>();
         arrayList.add("Cupcake");
         arrayList.add(2);

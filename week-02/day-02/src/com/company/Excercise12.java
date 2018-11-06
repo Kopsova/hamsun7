@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Excercise12 {
-    public static void main(String... args){
+    public static void main(String... args) {
         ArrayList<String> list = new ArrayList<String>(Arrays.asList("What", "I", "do", "create,", "I", "cannot", "not", "understand."));
 
         // Accidentally I messed up this quote from Richard Feynman.
@@ -17,11 +17,12 @@ public class Excercise12 {
         // Expected output: "What I cannot create I do not understand."
 
     }
-    public static String quoteSwap(ArrayList someList){
-        someList.set(2,"cannot");
-        someList.set(5,"do");
+
+    public static String quoteSwap(ArrayList someList) {
+        someList.set(2, "cannot");
+        someList.set(5, "do");
         String print = "";
-        for (int i = 0; i <someList.size() ; i++) {
+        for (int i = 0; i < someList.size(); i++) {
             System.out.print(someList.get(i) + " ");
 
         }

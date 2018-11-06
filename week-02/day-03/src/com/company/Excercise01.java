@@ -7,13 +7,13 @@ import java.awt.*;
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Excercise01 {
-    public static void mainDraw(Graphics graphics){
+    public static void mainDraw(Graphics graphics) {
 
         graphics.setColor(Color.RED);
-        graphics.drawLine(0,150,300,150);
+        graphics.drawLine(0, 150, 300, 150);
 
         graphics.setColor(Color.GREEN);
-        graphics.drawLine(150,0,150,300);
+        graphics.drawLine(150, 0, 150, 300);
 
         // draw a red horizontal line to the canvas' middle.
         // draw a green vertical line to the canvas' middle.

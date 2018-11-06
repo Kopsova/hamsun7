@@ -1,7 +1,7 @@
 public class Example {
-    public static void main(String[]args){
+    public static void main(String[] args) {
         Student john = new Student("John Doe", 20, "male", "BME");
-        Student bestudent = (Student)john;
+        Student bestudent = (Student) john;
         bestudent.introduce();
         Student jake = (Student) john.clone();
         jake.introduce();

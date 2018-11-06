@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.util.List;
 
 public class Practice03 {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         System.out.println(numbersOfLines("text.txt"));
 
     }

@@ -6,32 +6,10 @@ public abstract class StringedInstrument extends Instrument {
     String sound;
 
 
-
-
-
-
-
-    public String sound () {
+    public String sound() {
         return sound;
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

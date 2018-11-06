@@ -5,7 +5,7 @@ public class Apple {
 
     }
 
-    public String getApple(){
-        return "orange" ;
+    public String getApple() {
+        return "orange";
     }
 }

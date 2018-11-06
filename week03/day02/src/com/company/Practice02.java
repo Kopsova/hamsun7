@@ -6,11 +6,11 @@ import java.nio.file.Files;
 import java.util.List;
 
 public class Practice02 {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         try {
             Path filePath = Paths.get("my-file.txt");
             List<String> lines = Files.readAllLines(filePath);
-            for (int i = 0; i < lines.size() ; i++) {
+            for (int i = 0; i < lines.size(); i++) {
                 System.out.println(lines.get(i));
 
             }

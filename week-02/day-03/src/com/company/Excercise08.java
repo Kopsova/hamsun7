@@ -8,8 +8,8 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Excercise08 {
 
-    public static void mainDraw(Graphics graphics){
-        square(graphics,0,0,50,50);
+    public static void mainDraw(Graphics graphics) {
+        square(graphics, 0, 0, 50, 50);
         // create a square drawing function that takes 2 parameters:
         // the x and y coordinates of the square's top left corner
         // and draws a 50x50 square from that point.
@@ -19,17 +19,14 @@ public class Excercise08 {
 
     }
 
-    public static void square (Graphics graphics, int x, int y, int width, int height) {
-        for (int i = 0; i < 150 ; i+=50) {
-            graphics.drawRect(0+i,0+i,50,50);
+    public static void square(Graphics graphics, int x, int y, int width, int height) {
+        for (int i = 0; i < 150; i += 50) {
+            graphics.drawRect(0 + i, 0 + i, 50, 50);
 
         }
 
 
     }
-
-
-
 
 
     static int WIDTH = 320;

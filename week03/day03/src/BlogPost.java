@@ -10,7 +10,7 @@ public class BlogPost {
 
 
     public void putTitle() {
-        System.out.println('"' + title + '"' +" "+ "titled by"+ " " + authorName +" " + "posted at" +" "+'"'+ publicationDate+'"');
+        System.out.println('"' + title + '"' + " " + "titled by" + " " + authorName + " " + "posted at" + " " + '"' + publicationDate + '"');
     }
 
     public void putText() {

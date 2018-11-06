@@ -7,9 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Practice04 {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
         List<String> content = new ArrayList();
-        content.add ("Ivana");
+        content.add("Ivana");
         try {
             Path filePath = Paths.get("new-file.txt");
             Files.write(filePath, content);

@@ -32,7 +32,7 @@ public class Main {
             sponsor.hire();
         }
 
-        for(Person person : people) {
+        for (Person person : people) {
             person.introduce();
             person.getGoal();
         }
@@ -43,6 +43,6 @@ public class Main {
         awesome.addMentor(mentor);
         awesome.addMentor(gandhi);
         awesome.info();
-	// write your code here
+        // write your code here
     }
 }

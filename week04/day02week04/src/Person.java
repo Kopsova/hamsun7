@@ -9,7 +9,8 @@ public class Person {
         this.age = age;
         this.gender = gender;
     }
-    public Person(){
+
+    public Person() {
         this.name = "Jane Doe";
         this.age = 30;
         this.gender = "female";
@@ -18,7 +19,7 @@ public class Person {
 
 
     public void introduce() {
-        System.out.println("Hi,Im" +" "+ name +" "+ "a" +" "+ age +" "+ "old" + " "+gender);
+        System.out.println("Hi,Im" + " " + name + " " + "a" + " " + age + " " + "old" + " " + gender);
 
     }
 

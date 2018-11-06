@@ -1,12 +1,12 @@
 package com.company;
 
 public class Excercise22 {
-    public static void main (String[] args){
+    public static void main(String[] args) {
         double a = 24;
         int out = 0;
         // if a is even increment out by one
-        if (a%2 == 0){
-            out --;
+        if (a % 2 == 0) {
+            out--;
         }
 
         System.out.println(out);
@@ -16,13 +16,11 @@ public class Excercise22 {
         // if b is between 10 and 20 set out2 to "Sweet!"
         // if less than 10 set out2 to "Less!",
         // if more than 20 set out2 to "More!"
-        if (b > 10 && b< 20){
-            out2="Sweet!";
-        }
-        else if(b < 10){
+        if (b > 10 && b < 20) {
+            out2 = "Sweet!";
+        } else if (b < 10) {
             out2 = "Less!";
-        }
-        else {
+        } else {
             out2 = "More!";
         }
 
@@ -37,27 +35,16 @@ public class Excercise22 {
         // if credits are smaller than 50,
         // and isBonus is false decrement c by 1
         // if isBonus is true c should remain the same
-        if (credits >= 50 && isBonus == false){
+        if (credits >= 50 && isBonus == false) {
             c -= 2;
-        }
-        else if (credits < 50 && isBonus == false){
+        } else if (credits < 50 && isBonus == false) {
             c -= 1;
-        }
-        else if ( isBonus == true){
+        } else if (isBonus == true) {
 
         }
 
 
         System.out.println(c);
-
-
-
-
-
-
-
-
-
 
 
     }

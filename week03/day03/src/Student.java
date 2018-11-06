@@ -1,9 +1,10 @@
 class Student {
 
-    public void learn (){
+    public void learn() {
 
     }
-    public void question (Teacher teacher){
+
+    public void question(Teacher teacher) {
         teacher.answer();
     }
 }
@@ -21,8 +22,8 @@ class Teacher {
 }
 
 
-class StudentsAndTeachers{
-    public static void main (String [] args){
+class StudentsAndTeachers {
+    public static void main(String[] args) {
         Teacher teacher = new Teacher();
         Student student = new Student();
         teacher.teach(student);

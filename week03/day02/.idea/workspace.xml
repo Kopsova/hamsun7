@@ -2,44 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708e9322-efc1-491a-bf7a-73249563905a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hamsun7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../src/OddAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03/src/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day03/Tests/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/src/Aircrafts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/src/Carrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/src/CarrierException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/src/F16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/src/F35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/week04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/cp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GardenApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenApp/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenApp/src/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenApp/src/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenApp/src/Garden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenApp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenApp/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenApp/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenApp/src/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenApp/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenApp/src/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../todo-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day02/com/company/Excercise07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02/com/company/Excercise07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Excercise07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/BlogPostMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/out/production/day03/BlogPostMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/out/production/day03/Fleet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/Sharpie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/out/production/day03/Sharpie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/out/production/day03/StudentsAndTeachers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/out/production/day03/StudentsAndTeachers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/src/BlogPostMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/src/BlogPostMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/src/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/src/Farm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day03/src/Fleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/src/Fleet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/TheGardenApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/TheGardenApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day01/out/production/day01/Cohort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day01/out/production/day01/Cohort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day01/out/production/day01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day01/out/production/day01/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day01/src/Cohort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day01/src/Cohort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day03/Tests/ExtensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/Tests/ExtensionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +26,7 @@
     <session id="-1876099214">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
@@ -110,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Excercise06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="119">
               <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Practice03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="187">
               <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -137,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Excercise07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="408">
               <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -162,8 +136,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Practice04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Practice05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="272">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -301,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540793040822" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540819737915" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week-02/day-01" />
   </component>
   <component name="RunDashboard">
@@ -412,12 +386,12 @@
       <workItem from="1538471022153" duration="21796000" />
       <workItem from="1539271425555" duration="4965000" />
       <workItem from="1539940639788" duration="1946000" />
-      <workItem from="1540457860533" duration="13863000" />
+      <workItem from="1540457860533" duration="14721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42570000" />
+    <option name="totallyTimeSpent" value="43428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="128" y="0" width="1472" height="833" extended-state="1" />
@@ -432,7 +406,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33285713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33285713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,7 +427,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16267247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1621813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -462,7 +436,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33285713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,7 +445,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -508,16 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Practice05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new-file.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -530,16 +494,6 @@
             <element signature="e#321#322#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
             <element signature="e#535#543#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Practice04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -569,26 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Practice03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Practice02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -599,10 +533,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Practice03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Practice04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Excercise06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="119">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Excercise07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Practice05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

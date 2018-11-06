@@ -10,13 +10,12 @@ public class Excercise03 {
     public static void mainDraw(Graphics graphics) {
 
         graphics.setColor(Color.GREEN);
-        graphics.drawLine(0,0,343,343);
+        graphics.drawLine(0, 0, 343, 343);
 
         graphics.setColor(Color.RED);
-        graphics.drawLine(320,0,0,343);
+        graphics.drawLine(320, 0, 0, 343);
         // Draw the canvas' diagonals.
         // If it starts from the upper-left corner it should be green, otherwise it should be red.
-
 
 
     }

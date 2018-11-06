@@ -9,9 +9,9 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Excercise07 {
 
-    public static void mainDraw(Graphics graphics){
+    public static void mainDraw(Graphics graphics) {
 
-        rectangle(graphics,10,10,10,50);
+        rectangle(graphics, 10, 10, 10, 50);
         // draw four different size and color rectangles.
         // avoid code duplication.
 
@@ -20,18 +20,16 @@ public class Excercise07 {
 
     public static void rectangle(Graphics graphics, int x, int y, int width, int height) {
 
-        for (int i = 0; i <= 80; i+=20) {
+        for (int i = 0; i <= 80; i += 20) {
 
             Random rndColor = new Random();
             graphics.setColor(new Color(rndColor.nextInt(256), rndColor.nextInt(256), rndColor.nextInt(256)));
 
-            graphics.fillRect(rndColor.nextInt(100),rndColor.nextInt(300),width+i, height);
+            graphics.fillRect(rndColor.nextInt(100), rndColor.nextInt(300), width + i, height);
 
 
         }
     }
-
-
 
 
     // Don't touch the code below

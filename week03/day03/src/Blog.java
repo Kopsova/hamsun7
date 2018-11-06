@@ -12,33 +12,26 @@ public class Blog {
 
     List<BlogPost> posts = new ArrayList<>();
 
-    public Blog(){
+    public Blog() {
 
 
     }
 
 
-
-
-    public void add(BlogPost newPost){
+    public void add(BlogPost newPost) {
 
         posts.add(newPost);
     }
 
-    public void delete(int index){
+    public void delete(int index) {
         posts.remove(index);
 
 
     }
 
-    public void update(int index, BlogPost newPost){
-        posts.set(index,newPost);
-        }
-
-
-
-
-
+    public void update(int index, BlogPost newPost) {
+        posts.set(index, newPost);
+    }
 
 
 }

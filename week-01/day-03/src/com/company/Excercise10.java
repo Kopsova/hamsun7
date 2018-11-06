@@ -1,8 +1,8 @@
 package com.company;
 
 public class Excercise10 {
-    public static void main(String[]args) {
-        String  myName = "Ivana";
+    public static void main(String[] args) {
+        String myName = "Ivana";
         int myAge = 37;
         int myDubleHigh = 169 * 2;
         boolean iAmMarried = true;
@@ -10,7 +10,6 @@ public class Excercise10 {
         System.out.println(myAge);
         System.out.println(iAmMarried);
         System.out.println(myDubleHigh);
-
 
 
     }

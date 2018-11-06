@@ -9,6 +9,6 @@ public class Main {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Hello, user! Please give me your name");
 
-	// write your code here
+        // write your code here
     }
 }
