@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Tamaguchi Open Page #</title>
+    <link rel="stylesheet" th:href="@{/style.css}"/>
+    <meta charset="utf-8"/>
+</head>
+<body>
+<ul>
+    <li>
+<a th:href="'/information'" th:text="'Information'"></a>
+    </li>
+</ul>
+
+<img th:src="greenfox.png" th:alt="'Green fox'">
+<p th:text="'This is ' + ${name}+ '. Currently living on pizza and lemonade. He knows 2 tricks'"></p>
+<h2 th:text="'Known tricks'"></h2>
+<ul>
+    <li th:text="'Write HTML'"></li>
+    <li th:text="'Code in Java'"></li>
+</ul>
+
+
+
+
+
+</body>
+</html>
