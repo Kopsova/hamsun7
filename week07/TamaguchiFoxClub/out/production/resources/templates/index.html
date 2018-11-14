@@ -13,11 +13,11 @@
 </ul>
 
 <img th:src="greenfox.png" th:alt="'Green fox'">
-<p th:text="'This is ' + ${name}+ '. Currently living on pizza and lemonade. He knows 2 tricks'"></p>
+<p th:text="'This is ' + ${name.getName()}+ '. Currently living on '+${name.getFood()} +  ' and ' + ${name.getDrink()}+'. She knows 2 tricks'"></p>
 <h2 th:text="'Known tricks'"></h2>
 <ul>
     <li th:text="'Write HTML'"></li>
-    <li th:text="'Code in Java'"></li>
+    <li th:text="'Style in CSS'"></li>
 </ul>
 
 

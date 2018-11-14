@@ -14,6 +14,7 @@ public class HelloBeanWorldApp implements CommandLineRunner {
     MyColor color;
 
     public static void main(String[] args) {
+
         SpringApplication.run(HelloBeanWorldApp.class, args);
     }
 
