@@ -1,0 +1,46 @@
+body {
+    background-color: #202326;
+}
+
+table {
+
+
+    border-collapse: collapse;
+    border-style: hidden;
+    margin: 50px;
+
+
+}
+.my-table{
+    font-family:'Permanent Marker', cursive;
+    color: white;
+    background-color: #202326;
+    text-align: left;
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+    display: table;
+    padding: 0 0 8em 0;
+}
+table.table-hover tr td:hover {
+    background-color: #fbf038;
+    color: black;
+
+}
+button{
+    position: center;
+}
+.center-block{
+    float: none;
+    position: center;
+}
+a{
+    display: block;
+}
+h3{
+    font-family:'Roboto', sans-serif;
+    color: white;
+}
+th{
+    font-family:'Roboto', sans-serif;
+}
