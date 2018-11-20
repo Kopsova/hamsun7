@@ -1,8 +1,6 @@
 package com.greenfox;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 
 @org.springframework.web.bind.annotation.RestController
 public class RestController {
@@ -33,5 +31,25 @@ public class RestController {
     @GetMapping("appenda/{appendable}")
     public Object appending (@PathVariable ("appendable") String appendable) {
         return new Appenda(appendable);
+    }
+
+    @PostMapping("dountil/{action}")
+    public Object doUntil (@PathVariable ("action") String action, @RequestBody DoUntilNumber numb) {
+        if (action.equals("sum")) {
+            int sum = 0;
+            for (int i = 0; i <= numb.getUntil(); i++) {
+                sum += i;
+            }
+            return new DoUntil(sum);
+        }
+        if (action.equals("factor")) {
+            int fact = 1;
+            for (int i = 1; i <= numb.getUntil() ; i++) {
+                fact*= i;
+            }
+            return new DoUntil(fact);
+        }
+        return new DoUntil();
+
     }
 }
