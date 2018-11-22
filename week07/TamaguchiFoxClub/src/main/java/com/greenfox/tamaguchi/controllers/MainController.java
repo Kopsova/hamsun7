@@ -11,20 +11,20 @@ import java.util.List;
 @Controller
 public class MainController {
 
-    List <Fox> foxes ;
+    List<Fox> foxes;
 
     List<Fox> newFox;
 
     public MainController() {
         foxes = new ArrayList<>();
-        foxes.add(new Fox("Mr.Green","salad","water"));
-        foxes.add(new Fox("Franky","chicken nuggets","Coke"));
-        foxes.add(new Fox("Ms.Ginger","fruits","green tea"));
+        foxes.add(new Fox("Mr.Green", "salad", "water"));
+        foxes.add(new Fox("Franky", "chicken nuggets", "Coke"));
+        foxes.add(new Fox("Ms.Ginger", "fruits", "green tea"));
 
     }
 
     @RequestMapping("/")
-    public String homePage(Model model, @RequestParam(name="name") String name) {
+    public String homePage(Model model, @RequestParam(name = "name") String name) {
         for (int i = 0; i < foxes.size(); i++) {
             if (name.equals(foxes.get(i).getName())) {
                 model.addAttribute("name", foxes.get(i));
@@ -39,20 +39,14 @@ public class MainController {
     }
 
     @PostMapping("/login")
-    public String loginName(@RequestParam(name="name") String name) {
+    public String loginName(@RequestParam(name = "name") String name) {
         for (int i = 0; i < foxes.size(); i++) {
             if (!name.equals(foxes.get(i).getName())) {
                 newFox.add(new Fox(name));
             }
+        }
+        return "redirect:/?name=" + name;
 
-                return "redirect:/?name=" + name;
 
     }
-
-
-
-
-
-
-
 }

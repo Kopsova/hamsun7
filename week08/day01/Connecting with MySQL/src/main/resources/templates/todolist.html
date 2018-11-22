@@ -14,12 +14,9 @@
 </head>
 
 <body>
-<p></p>
-<p></p>
-<p></p>
 <h3 th:text="'TODOS FOR TODAY:'" class="text-center"></h3>
 <div class="my-actions">
-<a th:href="'/add'" >
+<a th:href="'/todo/add'" >
     <button type="button" class="btn btn-warning btn-warning-bordered center-block">Add new todo</button></a></div>
 <table class="table table-inverse table-hover my-table">
     <tr>
@@ -27,9 +24,11 @@
         <th th:text="'ACTION'"></th>
         <th th:text="'DONE'"></th>
         <th th:text="'URGENT'"></th>
+        <th th:text="'DELETE'"></th>
+        <th th:text="EDIT"></th>
     </tr>
     <tr th:each="todo : ${todos}">
-        <td th:text="${todoStat.index}">
+        <td th:text="${todo.getId()}">
         </td>
         <td th:text="${todo.getTitle()}" class="font-italic">
         </td>
@@ -38,6 +37,12 @@
         </td>
         <td>
             <span th:class="${todo.isUrgent()} ? 'glyphicon glyphicon glyphicon-ok' : 'glyphicon glyphicon glyphicon-remove'"></span>
+        </td>
+        <td>
+            <a th:href="'/todo/'+${todo.getId()}+'/delete'">delete</a>
+        </td>
+        <td>
+            <a th:href="'/todo/'+${todo.getId()}+'/edit'">edit</a>
         </td>
 
     </tr>

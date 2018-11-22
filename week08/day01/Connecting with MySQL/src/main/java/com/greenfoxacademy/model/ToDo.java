@@ -8,7 +8,7 @@ import javax.persistence.Id;
 public class ToDo {
     @Id
     @GeneratedValue
-    Long id;
+    long id;
     String title;
     boolean urgent = false;
     boolean done = false;
@@ -20,6 +20,10 @@ public class ToDo {
     }
 
     public ToDo() {
+    }
+
+    public ToDo(String title) {
+        this.title = title;
     }
 
     public Long getId() {

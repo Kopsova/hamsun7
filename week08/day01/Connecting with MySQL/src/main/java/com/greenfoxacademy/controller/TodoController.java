@@ -5,10 +5,7 @@ import com.greenfoxacademy.repository.TodoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,6 +29,39 @@ public class TodoController {
         model.addAttribute("todos", todos);
         return "todolist";
     }
+
+    @GetMapping(value = "/add")
+    public String addForm(Model model) {
+        model.addAttribute("todo", new ToDo());
+        return "addtodo";
+    }
+
+    @PostMapping(value = "/add")
+    public String addSubmit(@ModelAttribute ToDo todo) {
+        repo.save(todo);
+        return "redirect:/todo/list " ;
+    }
+
+    @RequestMapping(value = "/{id}/delete")
+    public String deleteTodo (@PathVariable long id) {
+        repo.deleteById(id);
+        return "redirect:/todo/list" ;
+    }
+
+    @GetMapping(value="/{id}/edit")
+    public String editForm (@PathVariable long id,Model model) {
+        model.addAttribute("todo",repo.findById(id).get());
+        return "edit" ;
+    }
+
+    @PostMapping(value="/{id}/edit")
+    public String editSubmit (@ModelAttribute ToDo todo) {
+        repo.save(todo) ;
+        return "redirect:/todo/list ";
+    }
+
+
+
 
 
 
